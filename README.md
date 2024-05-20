@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://resilient-unicorn-3ff650.netlify.app/](https://resilient-unicorn-3ff650.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mayank20011portfolio.netlify.app/](https://mayank20011portfolio.netlify.app/)
 
 - 💬 Ask me about **Frontend Technologies**
 
